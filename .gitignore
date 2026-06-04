@@ -1,0 +1,5 @@
+.calva/mcp-server/
+.clj-kondo/.cache
+.clj-kondo/imports
+.lsp/.cache
+.portal/vs-code.edn
