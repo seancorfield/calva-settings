@@ -290,5 +290,3 @@
 		(-> data
 				format-report
 				println)))
-
-(-main)
