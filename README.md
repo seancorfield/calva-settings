@@ -99,7 +99,3 @@ This means:
 - Column 2: Calva default value
 - Column 3: user override value
 - Column 4: project override value
-
-## Note
-
-All code in this repository was written by GitHub Copilot in this chat session.
