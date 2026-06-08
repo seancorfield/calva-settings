@@ -1,6 +1,6 @@
 # Calva Settings Audit (Babashka)
 
-> **Note:** All code in this repository was written by GitHub Copilot in this chat session.
+> **Note:** All code in this repository was written by GitHub Copilot.
 
 This project provides a Babashka script that compares Calva configuration values from three sources:
 
