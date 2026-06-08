@@ -32,10 +32,27 @@ Notes:
 
 ## Usage
 
+### Running directly
+
 Run from the project directory:
 
 ```bash
 bb calva.bb
+```
+
+### Running as a dependency
+
+Add the following to your `bb.edn` file:
+
+```clojure
+{:deps {io.github.seancorfield/calva-settings
+        {:git/sha "35a5d67806e82e68f878554d529f9553ef622486"}}}
+```
+
+Then run:
+
+```bash
+bb -m calva
 ```
 
 ## Command-Line Arguments
